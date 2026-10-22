@@ -8,3 +8,6 @@ A Java console-based arcade-style Pokémon game built for an Object-Oriented Pro
 - Extract the zip file into a folder.
 - In your IDE, open the folder you just extract from zip file.
 - Run the "PokemonGaOleGame.java"
+
+# UML Diagram
+Link: https://drive.google.com/file/d/15jY6PFVWaUp0A2n6ghAbjHNepUStUb8e/view?usp=sharing
